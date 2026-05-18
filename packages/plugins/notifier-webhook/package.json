@@ -1,6 +1,6 @@
 {
   "name": "@aoagents/ao-plugin-notifier-webhook",
-  "version": "0.8.0",
+  "version": "0.0.0-nightly-c1e43f61dcb612fd84ec8e1481a1af8328ca3212",
   "description": "Notifier plugin: generic webhook",
   "license": "MIT",
   "type": "module",
